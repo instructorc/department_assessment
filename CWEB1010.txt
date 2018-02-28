@@ -1,7 +1,7 @@
 Course: CWEB1010 – Introduction to Web Development
 Two competencies for this process.
-1	Develop working programs with a variety of programming environments
-2	Compare and contrast coding styles of different visual programming environments
+1	Apply CSS style rules to create page layout
+2	Integrate color, graphics, and fonts into web pages
 
 Develop the following for the competency
 

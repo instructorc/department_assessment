@@ -1,25 +1,48 @@
 Course: CWEB1111 – Programming Fundamentals II
 Two competencies for this process.
 1	Develop working programs with a variety of programming environments
+
+    Develop the following for the competency
+
+    TELL THEM - How is the student informed of this material?: (20 mins)
+
+    I	After 8 rigourous weeks of covering core programming concepts using psuedocode(Sequence, Selection, Iteration), Students 
+        will transition into 
+    II	
+
+    SHOW THEM - How do you demonstrate the skill?:  (20 mins)
+    I	  
+
+    MAKE THEM:  How do students practice this skill? (30 mins)
+    I   
+
+
+    DETERMINE APPROPRIATE MEASUREMENT OF SKILL DEVELOPMENT
+
+    A)	Formative assessment
+        I	
+    B)	Summative assessment
+        I	
+
 2	Compare and contrast coding styles of different visual programming environments
 
-Develop the following for the competency
+    Develop the following for the competency
 
-TELL THEM - How is the student informed of this material?: (20 mins)
+    TELL THEM - How is the student informed of this material?: (20 mins)
 
-I	
-II	
-
-SHOW THEM - How do you demonstrate the skill?:  (20 mins)
-I	  
-
-MAKE THEM:  How do students practice this skill? (30 mins)
-I   
-
-
-DETERMINE APPROPRIATE MEASUREMENT OF SKILL DEVELOPMENT
-
-A)	Formative assessment
     I	
-B)	Summative assessment
-    I	
+    II	
+
+    SHOW THEM - How do you demonstrate the skill?:  (20 mins)
+    I	  
+
+    MAKE THEM:  How do students practice this skill? (30 mins)
+    I   
+
+
+    DETERMINE APPROPRIATE MEASUREMENT OF SKILL DEVELOPMENT
+
+    A)	Formative assessment
+        I	
+    B)	Summative assessment
+        I	
