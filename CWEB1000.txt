@@ -5,20 +5,22 @@ Two competencies for this process.
 
     TELL THEM - How is the student informed of this material?: (20 mins)
 
-    I	
-    II	
+    I	The students are required to read the chapter regarding CSS the weep prior.  
+    II	A 20 minute lecture is presented on a variety of concepts 
 
     SHOW THEM - How do you demonstrate the skill?:  (20 mins)
-    I	  
+    I	Throughout the semester, I do two running examples.  During the week where CSS is covered, I demonstrate how to 
+        include CSS into our class example.  
 
     MAKE THEM:  How do students practice this skill? (30 mins)
-    I   
+    I   Extra Credit is assigned from the book that reinforceing the idea of incorporating CSS into a HTML document.
+    II. Students also receive hands-on experience with 
 
 
     DETERMINE APPROPRIATE MEASUREMENT OF SKILL DEVELOPMENT
 
     A)	Formative assessment
-        I	
+        I.  Students take a CSS quiz that 	
     B)	Summative assessment
     I	
 
