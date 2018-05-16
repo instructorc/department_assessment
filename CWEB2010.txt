@@ -5,20 +5,24 @@ Two competencies for this process.
 
 Develop the following for the competency
 
+
+
 TELL THEM - How is the student informed of this material?: (20 mins)
 
-I	A twenty-minute lecture is presented on the concept of reading and writing to files.  The lecture (https://instructorc.github.io/site/slides/csharp/streams.html) centers on understanding how to read and write to a file using the classes provided by the .NET framework and the process of properly instantiating each row line as an object into their program.  The program enforces encapsulation and implementation hiding with accessor methods. The lecture provides visual code samples and I make sure to ask question to see if the students are tracking or if they need further clarification.
+I	A twenty-minute lecture is presented on the concept of reading and writing to files.  The lecture (https://instructorc.github.io/site/slides/csharp/streams.html) centers on understanding how to read and write to a file using the classes provided by the .NET framework/core and the process of properly instantiating each row line as an object into their program.  The program enforces encapsulation and implementation hiding with accessor methods. The lecture provides visual code samples and I make sure to ask question to see if the students are tracking or if they need further clarification.
 II	Students are also required to read the two chapters on their own time
 
 SHOW THEM - How do you demonstrate the skill?:  (20 mins)
-I	Once the lecture concludes, I demonstrate each of the concepts I lectured on with an actual coding example.  During this example, I seek the input of the students and ask for their participation in coding out the problem.  Students also have the opportunity to follow along or take notes on the example I am coding out.  
+I	Once the lecture concludes, I demonstrate each of the concepts I lectured on with an actual coding example.  During this example, I seek the input of the students and ask for their participation in coding out the problem.  Students also have the opportunity to follow along or take notes on the example I am coding out. Each Code example is then hosted online for later viewing. 
 
 MAKE THEM:  How do students practice this skill? (30 mins)
 i.	At the conclusion of my lecture and class demonstration, I have them complete a walk-through exercise in the book.  I typically add additional requirements to the activity so that they are required to make correlations and connections between concepts covered in class and not just simply copying for the sake of completion.
 
-•	Determine appropriate measurement of skill development.
+
+
+Determine appropriate measurement of skill development.
 1.	 Create Object variables using proper instantiation.  2) Explain accessors (getters and setters)
-a.	Formative assessment
-i.	Students are assigned a project that consist of concepts covered and have to generate a working program that implements the concepts outlined in the project rubric.  Two students are then chosen each Thursday to demonstrate their completed project to the class.
-b.	Summative assessment
-i.	The students take a multiple-choice quiz that will test their knowledge covering the concepts related to the competencies.  Questions related to the concepts covered will also show up on the mid-term.
+	a.	Formative assessment
+		i.	Students are assigned a project that consist of concepts covered and have to generate a working program that implements the concepts outlined in the project rubric.  Two students are then chosen each Thursday to demonstrate their completed project to the class.
+	b.	Summative assessment
+		i.	The students take a multiple-choice quiz that will test their knowledge covering the concepts related to the competencies.  Questions related to the concepts covered will also show up on the mid-term.

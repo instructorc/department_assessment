@@ -1,4 +1,4 @@
-Course: CWEB1010 – Introduction to Web Development
+﻿Course: CWEB1010 – Introduction to Web Development
 Two competencies for this process.
 1	Apply CSS style rules to create page layout
 
@@ -15,15 +15,16 @@ Two competencies for this process.
 
     MAKE THEM:  How do students practice this skill? (30 mins)
     I   Extra Credit is assigned from the book that reinforceing the idea of incorporating CSS into a HTML document.
-    II. Students also receive hands-on experience with 
+    II. Students also receive hands-on experience with incorporating short coding challenges in class using  HTML/CSS playground.  I'm try to 	gamify the challenge so that the learning process is fun and memorable.
 
 
     DETERMINE APPROPRIATE MEASUREMENT OF SKILL DEVELOPMENT
 
     A)	Formative assessment
-        I.  Students take a CSS quiz that 	
+        I.  Students take a CSS quiz that
+        II. Students have to build an personal website that makes use of CSS in their assignment 2.   	
     B)	Summative assessment
-    I	
+   	I.  Mid-term assessment and Final project (Assignment 3)	
 
     
 2	Integrate color, graphics, and fonts into web pages
